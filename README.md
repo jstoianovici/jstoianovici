@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# Computer Science Projects
 <!--
 **jstoianovici/jstoianovici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
