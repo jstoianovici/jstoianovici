@@ -1,16 +1,12 @@
 ## Hi there 👋
-# Computer Science Projects
-<!--
-**jstoianovici/jstoianovici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Computer Science Projects
+* Object-Oriented Programming
+Focus on software design principles, abstraction, inheritance, polymorphism, and maintainable code architectures.
+* Databases
+Development of relational database systems, query optimisation, and schema design.
+* Introduction to Web Development
+Construction of responsive web applications using frontend and backend technologies.
+* Human-Computer Interaction
+User-centred design, usability evaluation, interface prototyping, and accessibility principles.
+* Distributed and Cloud Computing
+Scalable systems, cloud deployment models, concurrency, and distributed architectures.
