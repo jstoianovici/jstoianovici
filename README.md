@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Jana!
-## BSc Computer Science Graduate - Projects
+BSc Computer Science Graduate - Projects
+---
 
 ### [Object-Oriented Programming](https://jstoianovici.github.io/Data/)
 Focus on software design principles, abstraction, inheritance, polymorphism, and maintainable code architectures. 
@@ -16,3 +17,24 @@ User-centred design, usability evaluation, interface prototyping, and accessibil
  *** 
 ### [Distributed and Cloud Computing](https://jstoianovici.github.io/Data/)
 Scalable systems, cloud deployment models, concurrency, and distributed architectures.
+
+## Technical Skills
+
+### Languages
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+
+### Frameworks & Tools
+- MySQL
+- SpringBoot
+- Jupiter Notebook
+- Azure
+
+## Contact
+- LinkedIn: [Your LinkedIn]
+- Email: jstoianovici@gmail.com
+
+
