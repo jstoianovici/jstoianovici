@@ -18,6 +18,8 @@ User-centred design, usability evaluation, interface prototyping, and accessibil
 ### [Distributed and Cloud Computing](https://jstoianovici.github.io/Data/)
 Scalable systems, cloud deployment models, concurrency, and distributed architectures.
 
+### [Active Directory Home Lab](https://jstoianovici.github.io/Data/)
+
 ## Technical Skills
 
 ### Languages
@@ -32,6 +34,7 @@ Scalable systems, cloud deployment models, concurrency, and distributed architec
 - SpringBoot
 - Jupiter Notebook
 - Azure
+- Active Directory
 
 ## Contact
 - LinkedIn: [Your LinkedIn]
