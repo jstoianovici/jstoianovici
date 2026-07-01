@@ -2,15 +2,20 @@
 BSc Computer Science Graduate - Projects
 ---
 
-### [Object-Oriented Programming](https://jstoianovici.github.io/Data/)
+### Object-Oriented Programming
+
 Focus on software design principles, abstraction, inheritance, polymorphism, and maintainable code architectures. 
 ***
-### [Databases](https://jstoianovici.github.io/Data/)
+### Databases 
 Development of relational database systems, query optimisation, and schema design.
+#### [Library Management System](https://jstoianovici.github.io/Data/)
+#### [Inventory Management System](https://jstoianovici.github.io/Data/)
 ***
   
-### [Introduction to Web Development](https://jstoianovici.github.io/Data/)
+### Introduction to Web Development
 Construction of responsive web applications using frontend and backend technologies.
+#### [Static Website](https://jstoianovici.github.io/Data/)
+#### [Prototype Web Application](https://jstoianovici.github.io/Data/)
  *** 
 ### [Human-Computer Interaction](https://jstoianovici.github.io/Data/)
 User-centred design, usability evaluation, interface prototyping, and accessibility principles.
